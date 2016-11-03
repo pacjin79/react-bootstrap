@@ -1,4 +1,4 @@
-# React-Bootstrap [![Travis][build-badge]][build] [![npm][npm-badge]][npm]
+# Leo's React-Bootstrap [![Travis][build-badge]][build] [![npm][npm-badge]][npm]
 
 [Bootstrap 3][bootstrap] components built with [React][react].
 
